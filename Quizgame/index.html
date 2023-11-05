@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Quiz Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="login-form">
+    <h2>Admin Login</h2>
+    <form>
+      <label for="username">Username:</label>
+      <input type="text" id="username" name="username">
+      <label for="password">Password:</label>
+      <input type="password" id="password" name="password">
+      <button type="button" onclick="login()">Login</button>
+    </form>
+  </div>
+
+  <div class="quiz-container hidden">
+    <h2>Quiz Game</h2>
+    <div class="question"></div>
+    <div class="answers"></div>
+    <button class="next-button hidden" onclick="nextQuestion()">Next</button>
+    <div id="score"></div>
+  </div>
+  <p> Informations </p>
+  <p> The username is "ammar" </p>
+  <p> The password is "ammar2011" </p>
+  <script src="script.js"></script>
+</body>
+</html>

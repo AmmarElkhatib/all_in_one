@@ -1,0 +1,62 @@
+.quiz-container, .login-form {
+  margin: 20px auto;
+  width: 500px;
+  text-align: center;
+}
+
+.hidden{
+  display: none;
+}
+
+.login-form input, .login-form button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+}
+
+.login-form h2 {
+  text-align: center;
+}
+
+.login-form label {
+  display: block;
+  text-align: left;
+  margin-bottom: 5px;
+}
+
+.quiz-container h2, .quiz-container .question {
+  margin-bottom: 10px;
+}
+
+.quiz-container .answers {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 10px;
+  margin-bottom: 20px;
+}
+
+.quiz-container button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+}
+
+.quiz-container button:hover {
+  background-color: #ddd;
+}
+
+.quiz-container button:active {
+  background-color: #ccc;
+}
+body{
+	background-color:black;
+	}
+*{
+	color:white;
+	}
