@@ -1,0 +1,36 @@
+IP                   : 41.37.88.251
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Talkha, Egypt, Africa
+GeoLocation(lat, lon): 31.0549151, 31.380243
+Currency             : Egyptian Pound
+
+IP                   : 41.37.88.251
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64;
+Browser              : Firefox
+Location             : Talkha, Egypt, Africa
+GeoLocation(lat, lon): 31.0549151, 31.380243
+Currency             : Egyptian Pound
+
+IP                   : 156.199.173.185
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64;
+Browser              : Firefox
+Location             : Giza, Egypt, Africa
+GeoLocation(lat, lon): 30.0130557, 31.2088526
+Currency             : Egyptian Pound
+
+IP                   : 156.207.130.81
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64;
+Browser              : Firefox
+Location             : Mansoura, Egypt, Africa
+GeoLocation(lat, lon): 31.0409483, 31.3784704
+Currency             : Egyptian Pound
+

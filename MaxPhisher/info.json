@@ -1,0 +1,23 @@
+[
+  {
+    "IP Address": "41.37.88.251",
+    "OS Name": "Linux",
+    "OS Version": "x86_64",
+    "Platform": "Linux x86_64",
+    "CPU Architecture": "amd64",
+    "CPU Core": "4",
+    "GPU Vendor": "Intel",
+    "GPU Renderer": "Intel(R) HD Graphics",
+    "Device Vendor": "Not Found",
+    "Device Model": "Not Found",
+    "RAM": "Not FoundGB",
+    "Browser Name": "Firefox",
+    "Browser Version": "115.0",
+    "Engine": "Gecko",
+    "Engine Version": "109.0",
+    "User Agent": "Mozilla/5.0 (X11; Linux x86_64; rv",
+    "Resolution": "1366x768",
+    "Language": "en-US",
+    "Time Zone": "-04"
+  }
+]

